@@ -1,0 +1,14 @@
+<lDOCTYPE html>
+<htmb
+<head>
+<style> P.error (
+color: red;
+</style>
+</head>
+<body>
+<p>This is a paragraph.</p> <p>This is a paragraph.</p>
+<p class="error'>| am different.</p>
+<p>This is a paragraph.</p>
+<p class="error"'>l am different too.</p>
+</body> </htmb
+I
